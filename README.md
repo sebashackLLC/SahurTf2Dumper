@@ -17,3 +17,7 @@ will dump tf2 offsets - you can use ai to like add more offsets i dont think it 
 # video
 
 https://youtu.be/RN-Wc0PNNX0
+
+
+
+feel free to steal this and do what ever
