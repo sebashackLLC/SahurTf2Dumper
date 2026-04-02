@@ -5,10 +5,12 @@
 
 will dump tf2 offsets - you can use ai to like add more offsets i dont think it dumps all of them 
 
-setup:
-open cmd in folder 
-run py gui.py
-press dump offsets
-wow.
+### Setup
 
+1. download the zip
+2. unzip
+3. open cmd in that folder 🧠
+4. open tf2
+5. run py gui.py in cmd
+5. offsets. 
 https://youtu.be/RN-Wc0PNNX0
