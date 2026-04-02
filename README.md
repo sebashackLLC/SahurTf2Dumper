@@ -13,4 +13,7 @@ will dump tf2 offsets - you can use ai to like add more offsets i dont think it 
 4. open tf2
 5. run py gui.py in cmd
 5. offsets. 
+
+# video
+
 https://youtu.be/RN-Wc0PNNX0
