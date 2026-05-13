@@ -18,6 +18,7 @@ will dump tf2 offsets - you can use ai to like add more offsets i dont think it 
 
 https://youtu.be/RN-Wc0PNNX0
 
-
+# todo
+add the rest of sdk for sigs and shit if i feel like it
 
 feel free to steal this and do what ever
